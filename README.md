@@ -1,4 +1,4 @@
-# Nuxt 3 Minimal Starter
+# Nuxt.js and Vue.js Frontend of ATS prototype
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 ## Setup
 Make sure to install the dependencies:
@@ -10,7 +10,7 @@ Configure your environment.
 Default env is localhost and port 3000
 (on `http://localhost:3000`)
 
-## Backend
+## Backend (https://github.com/linus-norden/ATS-WebApp-Backend)
 Clone the node.js based backend project and configure it.
 
 Start the backend connecting to the database and providing a rest API at http://localhost:3001. 
