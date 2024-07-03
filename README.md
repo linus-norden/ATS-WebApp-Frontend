@@ -1,5 +1,11 @@
 # Nuxt.js and Vue.js Frontend of ATS prototype
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+
+
+
+This repository contains files that were developed as part of a bachelor's thesis about Asset Tracking in Hospitals written in German.
+For this reason, many of the variable names and comments are written in German.
+
 ## Setup
 Make sure to install the dependencies:
 ## npm
@@ -27,3 +33,18 @@ Start is done with:
 npm run dev
 
 Default (see above) will be on `http://localhost:3000`
+
+## All Repositories needed to build ATS:
+https://github.com/linus-norden/mosquitto-UNIX-time
+
+https://github.com/linus-norden/ATS-ESP32-BLEScan
+
+https://github.com/linus-norden/ATS-ESP32-WiFiMesh
+
+https://github.com/linus-norden/ATS-WebApp-Frontend
+
+https://github.com/linus-norden/ATS-WebApp-Backend
+
+https://github.com/linus-norden/ATS-Python-Microservice
+
+https://github.com/linus-norden/ATS-SQL-DB
